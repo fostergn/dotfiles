@@ -1,0 +1,23 @@
+tap "homebrew/cask"
+tap "homebrew/cask-drivers"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+
+cask "google-chrome"
+cask "macdown"
+cask "postman"
+cask "slack"
+cask "spotify"
+cask "virtualbox"
+cask "visual-studio-code"
+cask "vlc"
+
+# Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
+cask "qlcolorcode"
+cask "qlimagesize"
+cask "qlmarkdown"
+cask "qlstephen"
+cask "qlvideo"
+cask "quicklook-json"
+cask "suspicious-package"
+cask "webpquicklook"
